@@ -6,4 +6,4 @@ The client side is a React.js application supported by HTML and TailwindCSS.
 
 Smart contracts on the Ethereum Network are written using Solidity.
 
-The static version of this application is deployed here: https://cryptonet-2l8z1t0oi-singhn13.vercel.app/
+The static version of this application is deployed here:[ https://cryptonet-2l8z1t0oi-singhn13.vercel.app/](https://cryptonet-git-main-singhn13.vercel.app/) https://cryptonet-git-main-singhn13.vercel.app/
